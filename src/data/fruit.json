@@ -1,0 +1,8 @@
+{
+  "name": "Durian",
+  "origin": "Thailand",
+  "smell": 1000,
+  "sweetness": 52,
+  "cost": 4.99,
+  "image_location": "/durian.webp" 
+}
